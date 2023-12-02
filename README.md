@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++ Qt, QtQuick with QML and computers architecture.**
 
-- 😴 In the free time I **read books about computer science.**
+- 😴 In the free time I **enjoy reading books about computer science.**
 
 - ⚡ Fun fact **I slowly switch to Neovim 😆**
 
