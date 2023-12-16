@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Konrad 😎</h1>
 <h3 align="center">I'm investigative CS student, mainly interested in low-level concepts like C and C++.</h3>
 
-- 🌱 I’m currently learning **C++ Qt, QtQuick with QML and computers architecture.**
+- 🌱 I’m currently learning **low-level memory management and computers architecture.**
 
 - 😴 In the free time I **enjoy reading books about computer science.**
   
