@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **advanced concepts in C#, XAML and design patterns.**
 
-- 😴 In the free time I **play around with databases at least by connecting them to WPF applications or extracting data into xml files and vice versa.**
+- 😴 In the free time I **play around with databases, for example, connecting them to WPF applications, implementing GUI for easier database operations or extracting data into xml files and vice versa.**
 
 - ⚡ Before **I used to code in C++ as a main language**
 
