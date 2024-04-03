@@ -5,7 +5,7 @@
 
 - 😴 In the free time I **play around with databases, for example, connecting them to WPF applications, implementing GUI for easier database operations or extracting data into xml files and vice versa.**
 
-- ⚡ Before **I used to code in C++ as a main language**
+- ⚡ Before **I used to code in C++.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
