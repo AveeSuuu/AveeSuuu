@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Konrad 😎</h1>
 <h3 align="center">I'm investigative CS student, mainly interested in .NET platform and C#.</h3>
 
-- 🌱 I’m currently learning **advanced concepts in C#, computer networks, design patterns,and backend with C# (ASP.NET Core).**
+- 🌱 I’m currently learning **advanced concepts in C#, computer networks, design patterns and backend with C# (ASP.NET Core).**
 
 - 😴 In the free time I **test random features from .NET that may end up being useful in future job.**
 
