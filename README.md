@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
-###
-
-<p align="left">I'm investigative CS student from Poland, mainly interested in backend development.
-<br>- 📚 I'm currently learning Java, Spring Boot and REST API unit testing
-<br>- ⚡ In my free time I rewrite C# projects into Java and commit war crimes in React</p>
+<h3 align="left">I'm investigative CS student from Poland, mainly interested in backend development.</h3>
+<p>
+  <br>- 📚 I'm currently learning Java, Spring Boot and REST API unit testing.
+  <br>- ⚡ In my free time I rewrite C# projects into Java and commit war crimes in React.
+</p>
 
 ###
 
